@@ -173,7 +173,7 @@ def process_frame(frame):
 
 ---
 
-## ✅ Best Practices for 2025
+##  Best Practices for 2025
 
 1. **Never log secrets:** Use filters to strip out passwords or API keys before they hit the file.
 2. **Use `logger.exception()`:** Inside an `except` block, use `logger.exception("message")`. It automatically attaches the full stack trace.
