@@ -1,10 +1,10 @@
 
 Links For .md file for doc reading 
 
-- [Context Manager ](ContextManager/contextmanager.md)
-- [Generator](Generator/Generator.md)
-- [Decorator](Decorator/decorator.md)
-- [Higher order Function](./HightOrderFunciton/function.md)
-- [Loggin in python ](./logging/logging.md)
-- [threading in python](./Multithreading/threading.md)
-- [Asyncronization](./Asyncronization/async.md)
+- [Context Manager ](./doc/contextmanager.md)
+- [Generator](./doc/Generator.md)
+- [Decorator](./doc/decorator.md)
+- [Higher order Function](./doc/function.md)
+- [Loggin in python ](./doc/logging.md)
+- [threading in python](./doc/threading.md)
+- [Asyncronization](./doc/async.md)
