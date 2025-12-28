@@ -22,3 +22,7 @@ def log_messages():
     logger.error("This is an error message")
     logger.critical("This is a critical message")
 log_messages()
+
+if __name__ == "__main__":
+    log_messages()
+    
