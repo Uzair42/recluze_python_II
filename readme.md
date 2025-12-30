@@ -11,3 +11,5 @@ Links For .md file for doc reading
 - [Loggin in python ](./doc/logging.md)
 - [threading in python](./doc/threading.md)
 - [Asyncronization](./doc/async.md)
+- [RegEX](./doc//reqularExpression.md)
+- [serialization](./doc/Serialize.md)
