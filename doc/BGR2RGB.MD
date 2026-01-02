@@ -34,7 +34,9 @@ plt.show()
 
 Alternatively, you can use the built-in OpenCV function cv2.cvtColor() for the same purpose: 
 python
+---
 
-```python
+```python 
 rgb_image_cvtColor = cv2.cvtColor(bgr_image,cv2.COLOR_BGR2RGB)
+
 ```
