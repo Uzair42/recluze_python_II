@@ -17,7 +17,7 @@ thread2.start()
 
 print("Main thread: doing other work concurrently.")
 
-# Wait for both threads to complete
+# # Wait for both threads to complete
 thread1.join()
 thread2.join()
 
