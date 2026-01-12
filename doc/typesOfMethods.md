@@ -20,3 +20,5 @@ Here we have 3 types of methods in python related to object orientation programm
 
 ## Declaring Static Variables (Class Variables)
 variables that are shared by all instances of a class are called class variables. They are defined directly within the class body, but outside of any method (including __init__)
+
+---
